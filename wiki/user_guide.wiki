@@ -2,4 +2,4 @@
 
 = User Guide for ots-schemas  =
 
-  * Javadocs
+The javadocs are distributed within the downloadable ZIP file.
